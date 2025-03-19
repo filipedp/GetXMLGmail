@@ -1,7 +1,3 @@
-Here’s the translated version of the project description in English:
-
----
-
 # 🚚 **Automation of NFe XML Reading and Google Sheets Population**
 
 This project automates the reading of XML files from Electronic Invoices (NFe) received via email, extracts specific information, and inserts it into a Google Sheets spreadsheet. It was developed to streamline the processing of NFe data, such as issue date, series, invoice number, issuer name, quantity, total value, vehicle plate, and odometer.
