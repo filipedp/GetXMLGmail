@@ -83,16 +83,3 @@ Este projeto é licenciado sob a [MIT License](LICENSE). Sinta-se à vontade par
 3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`).
 4. Push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
-
----
-
-## 📧 **Contato**
-
-Se tiver dúvidas ou sugestões, entre em contato:
-
-- **E-mail:** [seu-email@dominio.com]
-- **GitHub:** [seu-usuario-github](https://github.com/seu-usuario-github)
-
----
-
-Espero que essa descrição ajude a apresentar seu projeto de forma clara e profissional no GitHub! Se precisar de mais ajustes, é só avisar. 😊
