@@ -83,16 +83,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a Pull Request.
-
----
-
-## 📧 **Contact**
-
-If you have questions or suggestions, feel free to reach out:
-
-- **Email:** [your-email@domain.com]
-- **GitHub:** [your-github-username](https://github.com/your-github-username)
-
----
-
-I hope this description helps present your project clearly and professionally on GitHub! If you need further adjustments, just let me know. 😊
